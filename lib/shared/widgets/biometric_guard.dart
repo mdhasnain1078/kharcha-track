@@ -37,7 +37,7 @@ class _BiometricGuardState extends State<BiometricGuard> with WidgetsBindingObse
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.resumed) {
       _checkAuth();
-    } else if (state == AppLifecycleState.paused || state == AppLifecycleState.inactive) {
+    } else if (state == AppLifecycleState.paused) {
       // Re-lock the app when sent to background
       final useBiometrics = context.read<SettingsBloc>().state.useBiometrics;
       if (useBiometrics && _isAuthenticated) {

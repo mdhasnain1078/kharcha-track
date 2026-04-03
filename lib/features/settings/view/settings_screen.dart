@@ -50,7 +50,7 @@ class SettingsScreen extends StatelessWidget {
                   iconColor: AppColors.primary,
                   title: 'Dark Mode',
                   trailing: Switch.adaptive(
-                    value: state.themeMode == ThemeMode.dark,
+                    value: context.isDark,
                     activeColor: AppColors.primary,
                     onChanged: (v) => context.read<SettingsBloc>().add(
                           ToggleTheme(v ? ThemeMode.dark : ThemeMode.light),

@@ -13,12 +13,41 @@ A modern personal finance companion app built with Flutter. Kharch Tracker helps
 
 ## Screenshots
 
+### Home
 <div align="center">
-  <img src="assets/images/home.png" alt="Home Screen" width="250" style="margin: 10px;" />
-  <img src="assets/images/transactions.png" alt="Transactions Screen" width="250" style="margin: 10px;" />
-  <img src="assets/images/goals.png" alt="Goals Screen" width="250" style="margin: 10px;" />
-  <img src="assets/images/insights.png" alt="Insights Screen" width="250" style="margin: 10px;" />
-  <img src="assets/images/home_dark.png" alt="Home Screen (Dark Mode)" width="250" style="margin: 10px;" />
+  <img src="assets/images/home.png" alt="Home" width="200" style="margin: 10px;" />
+  <img src="assets/images/home2.png" alt="Home 2" width="200" style="margin: 10px;" />
+  <img src="assets/images/homeDark.png" alt="Home Dark" width="200" style="margin: 10px;" />
+</div>
+
+### Transactions
+<div align="center">
+  <img src="assets/images/transaction.png" alt="Transactions" width="200" style="margin: 10px;" />
+  <img src="assets/images/transactionDark.png" alt="Transactions Dark" width="200" style="margin: 10px;" />
+  <img src="assets/images/add_new_transection.png" alt="Add Transaction" width="200" style="margin: 10px;" />
+</div>
+
+### Goals
+<div align="center">
+  <img src="assets/images/goals.png" alt="Goals" width="200" style="margin: 10px;" />
+  <img src="assets/images/goals2.png" alt="Goals 2" width="200" style="margin: 10px;" />
+  <img src="assets/images/goalDark.png" alt="Goals Dark" width="200" style="margin: 10px;" />
+  <img src="assets/images/add_new_goal.png" alt="Add Goal" width="200" style="margin: 10px;" />
+</div>
+
+### Insights
+<div align="center">
+  <img src="assets/images/insight.png" alt="Insights" width="200" style="margin: 10px;" />
+  <img src="assets/images/insight2.png" alt="Insights 2" width="200" style="margin: 10px;" />
+  <img src="assets/images/insight3.png" alt="Insights 3" width="200" style="margin: 10px;" />
+  <img src="assets/images/insight4.png" alt="Insights 4" width="200" style="margin: 10px;" />
+  <img src="assets/images/insightDark.png" alt="Insights Dark" width="200" style="margin: 10px;" />
+</div>
+
+### Settings
+<div align="center">
+  <img src="assets/images/settings.png" alt="Settings" width="200" style="margin: 10px;" />
+  <img src="assets/images/settingsDark.png" alt="Settings Dark" width="200" style="margin: 10px;" />
 </div>
 
 ## Technologies & Architecture
